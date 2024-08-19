@@ -237,5 +237,5 @@ GET /api/v1/posts/post/{{id}}
 
 ```http
 GET /api/v1/posts/post/{{username}}
-```
+
 ```
